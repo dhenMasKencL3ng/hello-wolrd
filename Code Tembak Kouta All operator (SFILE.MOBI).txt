@@ -1,0 +1,48 @@
+1.Paket Data Telkomsel -mempunyai menu rahasia yang menawarkan berbagai tarif paket yang jauh lebih hemat. Menu itu bisa kamu akses dari nomor *550*790#, *550*890#, *550*910#, *550*912#, *550*300#, atau *550*777#. Cobalah masing-masing nomor tersebut dan lihat nomor mana yang berhasil kamu akses.
+
+Nantinya kamu akan mendapatkan pilihan paket yang bisa kamu pilih sesuka hati. Kemudian, kamu akan mendapatkan SMS konfirmasi yang berbunyi, _ Maaf, Anda tidak dapat menikmati paket ini karena nomor Anda tidak terdaftar. _ Jangan khawatir, kamu masih bisa dapat kok. Caranya, balas saja SMS tersebut dengan tulisan FLASH YA. Tidak lama kemudian, paketan yang kamu pilih akan segera aktif.
+
+2.Tembak Kouta Indosat
+rahasia. Mudah saja, kamu cukup mengirimkan SMS ke nomor 363 dengan tulisan QB200K2. Jika berhasil, kamu akan mendapatkan kuota sebesar 9.0 GB reguler plus 7.0 GB untuk penggunaan pukul 01.00-09.00, dan gratis penggunaan WhatsApp hingga tahun 2022 nanti.
+
+Semua manfaat itu bisa kamu nikmati selama 7 bulan. Namun hati-hati, sebelum jatuh tempo 1bulan, kamu harus menonaktifkan paket tersebut. Jika tidak, paket akan diperbarui secara otomatis dengan tarif sebesar Rp119.000.
+
+3. Tembak Kouta Xl *Vpn*
+ buatlah APN baru dengan data sebagai berikut:
+
+Nama : XL Unlimited
+
+APN : net
+
+Proxy : 202.152.240.050
+
+Port : 8080
+
+Tipe APN : Internet
+
+
+Atau
+
+APN : internet
+
+Proxy : 69.195.138.144
+
+Port : 80
+
+
+Ubah juga pengaturan homepage otomatismu menjadi http://123.xl.co.id. Setelah selesai, bukalah browser kamu dan kunjungi website tersebut untuk mulai Internetan. Untuk Mozilla, mengubah setting bisa dilakukan lewat menu Tools > Options > Advanced > Network > lalu tinggal isikan saja Proxy dan Port secara manual.
+
+4.Tembak Kouta Loop 
+tarif paket Internet normal adalah Rp20.000 untuk kuota 2GB. Namun, jika kamu dial ke nomor *232# kemudian pilih menu nomor 3, maka kamu akan mendapatkan beberapa tawaran paket yang lebih murah lagi. Seandainya kamu tidak bisa dial ke nomor tersebut, cobalah untuk mengirim SMS ke 2323 dengan tulisan KAMPUS USU/UIN/UNRI/UNPAD. Meski bukan mahasiswa yang bersangkutan, kamu bisa cukup beruntung untuk mendapatkan paketpaket murah spesial kartu Loop yaitu di *567*3*1*1*2*1# di mana kamu bisa dapat paket data yang lebih fantastis lagi. Untuk kuota 6 GB, kamu hanya perlu membayar sebesar Rp30.000.
+
+5.Tembak Kouta As 
+kartu As kamu. Cobalah dial ke *100*3*2*3*1*1# untuk paket data 500 MB hanya dengan harga Rp4.000, dial ke *100*3*2*3*1*2# untuk paket data 1 GB hanya dengan harga Rp6.000, atau dial ke *100*3*2*3*1*3# untuk paket data 2 GB hanya dengan harga Rp9.000. Namun ingat, paket ini hanya untuk penggunaan Internet selama 24 jam saja.
+
+Setelah berhasil mendaftarkan paket tersebut, selanjutnya kamu perlu dial ke *100*10000#. Kemudian akan ada balasan dari nomor 3636 di mana kamu perlu menjawabnya dengan tulisan FLASH YA. Lalu, tunggulah paketmu untuk aktif tidak lama lagi.
+
+6. Tembak kouta axis
+AxisNet dari Play Store. Di sini, sering kali Axis memberikan promo spesial yang tidak bisa didapatkan dari menu *123# ataupun dari promo via SMS. Promo spesial ini cukup sering muncul loh! Meskipun paket promonya sering berubah, tapi tetap harganya jadi jauh lebih murah daripada paketan biasanya.
+
+Ok thanks ya Pak ✔
+By Ryan Gaming ID ✔
+Next
